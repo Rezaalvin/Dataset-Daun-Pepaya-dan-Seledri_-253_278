@@ -1,3 +1,5 @@
+<p align="center"><img src="https://www.umm.ac.id/files/image/Logo_umm.png" width="400"></a></p>
+
 # Dataset-Daun-Pepaya-dan-Seledri_-253_278
 Repository ini berisi data-data yang dibutuhkan dalam pembelajaran mata kuliah Kecerdasan Buatan
 
