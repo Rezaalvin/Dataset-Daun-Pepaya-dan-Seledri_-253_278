@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.umm.ac.id/files/image/Logo%20UMM%20Merah.png" width="200"><img src="https://w1.pngwing.com/pngs/348/409/png-transparent-cartoon-brain-artificial-intelligence-humanoid-robot-artificial-intelligence-system-robotics-android-machine-learning-artificial-general-intelligence-thumbnail.png" width="200"></a></p>
+<p align="center"><img src="https://www.umm.ac.id/files/image/Logo%20UMM%20Merah.png" width="200"><img src="https://www.nicepng.com/png/full/96-966862_artificial-intelligence-threat-hunting-artificial-intelligence-ai-png.png" width="200"></a></p>
 
 # Dataset-Daun-Pepaya-dan-Seledri_-253_278
 Repository ini berisi data-data yang dibutuhkan dalam pembelajaran mata kuliah Kecerdasan Buatan
